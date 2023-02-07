@@ -31,5 +31,4 @@ console.log(cidade === inputMinusculo); // true
 const MinhaSenha = "minhaSenha123"
 console.log(MinhaSenha.length) // 13 caracteres
 
-
 //template string OU template literal
